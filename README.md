@@ -1,2 +1,2 @@
 # Seian_TTT4275-
-Elite coding
+The main goal for this code is to make Pierluigi cry
